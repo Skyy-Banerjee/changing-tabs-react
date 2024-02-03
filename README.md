@@ -1,6 +1,10 @@
 ## Figma URL
 
 [Tabs](https://www.figma.com/file/FJC19b9eUWS62HKR8L9Dmn/Tabs?node-id=0%3A1&t=8Rio02EFK1r9ItDW-1)
+![image](https://github.com/Skyy-Banerjee/changing-tabs-react/assets/51888502/f695af0e-a689-4c1d-a040-6e093e863f56)
+![image](https://github.com/Skyy-Banerjee/changing-tabs-react/assets/51888502/f46f1947-9bd7-49f9-9248-13847d577044)
+
+
 
 ## Steps
 
